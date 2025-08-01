@@ -4,7 +4,7 @@ local Players = game:GetService("Players")
 local Player = Players.LocalPlayer
 
 -- ⚙️ CONFIG
-local KeyURL = "https://pastebin.com/raw/testkey123"
+local KeyURL = "https://sub2unlock.com/7Xjl8"
 local CorrectKey = "KEY_ZENOMOZHUB"
 local ScriptToLoad = "loadstring(game:HttpGet("https://rawscripts.net/raw/GRAVITY-Blox-Fruits-Actual-Redz-Hub-Script-Updated-40394"))()"
 
