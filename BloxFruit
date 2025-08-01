@@ -5,8 +5,8 @@ local Player = Players.LocalPlayer
 
 -- ⚙️ CONFIG
 local KeyURL = "https://pastebin.com/raw/testkey123"
-local CorrectKey = "ZenoMozHub"
-local ScriptToLoad = "https://pastebin.com/raw/testpastebin"
+local CorrectKey = "KEY_ZENOMOZHUB"
+local ScriptToLoad = "loadstring(game:HttpGet("https://rawscripts.net/raw/GRAVITY-Blox-Fruits-Actual-Redz-Hub-Script-Updated-40394"))()"
 
 -- 🔊 Sound Function
 local function playSound(id)
